@@ -23,7 +23,7 @@ The dataset contains employee-level productivity metrics including:
 ## Key Insights
 - Team size had no substantial relationship with performance deviation
 - Overtime also has no noticeable correlation with productivity
-- Incentives have a moderate but inconsistent effect, meaning it could be useful but not on its own
+- Incentives have a moderate but inconsistent effect, meaning it could be useful but can't do much on its own
 - Idle time is strongly associated with lower productivity
 - Thus, overall system performance is likely more influenced by workflow inefficiency than scale
 
