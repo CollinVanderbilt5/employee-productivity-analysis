@@ -5,6 +5,8 @@ This project analyzes employee productivity data to understand how factors such 
 
 The goal is to identify key drivers of productivity deviation and provide data-driven insights into workforce efficiency.
 
+A Power BI Dashboard for this project is also provided, which you can see in the "images" folder.
+
 ## Tools & Technologies
 - Python
 - Pandas, NumPy
