@@ -29,7 +29,7 @@ The dataset contains employee-level productivity metrics including:
 - Overall system performance is more influenced by efficiency than scale
 
 ## How to Run
-Open `analysis.ipynb` in Jupyter Notebook or VS Code and run all cells sequentially.
+Open `employee_productivity_analysis.ipynb` in Jupyter Notebook or VS Code and run all cells sequentially.
 
 OR in a terminal:
 ```
