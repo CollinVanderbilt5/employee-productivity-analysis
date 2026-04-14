@@ -9,7 +9,6 @@ The goal is to identify key drivers of productivity deviation and provide data-d
 - Python
 - Pandas, NumPy
 - Matplotlib
-- Scikit-learn (Linear Regression)
 - Jupyter Notebook
 
 ## Dataset
