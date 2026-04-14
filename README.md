@@ -36,4 +36,4 @@ OR in a terminal:
 ```
 git clone https://github.com/CollinVanderbilt5/employee-productivity-analysis.git
 pip install -r requirements.txt
-jupyter notebook```
+jupyter notebook
