@@ -28,7 +28,7 @@ The dataset contains employee-level productivity metrics including:
 - Overtime shows diminishing returns on productivity
 - Overall system performance is more influenced by efficiency than scale
 
-- To see more in-depth insights and data, go to the bottom of employee_productivity_analysis.ipynb
+To see more in-depth insights and data, go to the bottom of employee_productivity_analysis.ipynb
 
 ## How to Run
 Open `employee_productivity_analysis.ipynb` in Jupyter Notebook or VS Code and run all cells sequentially.
