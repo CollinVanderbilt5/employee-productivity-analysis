@@ -33,6 +33,6 @@ The dataset contains employee-level productivity metrics including:
 Open `analysis.ipynb` in Jupyter Notebook or VS Code and run all cells sequentially.
 
 OR in a terminal:
-git clone https://github.com/CollinVanderbilt5/employee-productivity-analysis.git
-pip install -r requirements.txt
-jupyter notebook
+```git clone https://github.com/CollinVanderbilt5/employee-productivity-analysis.git```
+```pip install -r requirements.txt```
+```jupyter notebook```
